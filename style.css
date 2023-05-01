@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+}
+
+body a {
+	display:inline-block;
+	margin-bottom:10px;
+	color: green;
+}
+
+body a:hover {
+	color: red;
+}
